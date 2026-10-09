@@ -1,0 +1,46 @@
+FREQUENTLY ASKED QUESTIONS (FAQ)
+ABC Technologies
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password." Enter your registered
+email address, and a password reset link will be sent. The link expires
+after 1 hour. If you don't receive the email, check your spam folder or
+contact support to verify your account email is correct.
+
+Q: How do I update my profile information?
+A: Log in and go to Account Settings > Profile. You can update your name,
+email, phone number, and company details there. Email changes require
+verification via a confirmation link sent to the new address.
+
+Q: How do I activate or deactivate my account?
+A: New accounts are activated automatically after email verification during
+signup. To deactivate an account temporarily, go to Account Settings >
+Manage Subscription > Deactivate Account. Deactivation pauses billing but
+retains your data for 90 days.
+
+Q: How do I request a refund?
+A: Refund requests can be submitted through Billing > Request Refund, or by
+contacting support directly. All refund requests are reviewed by a human
+supervisor per company policy before being processed.
+
+Q: How do I cancel my subscription?
+A: Go to Account Settings > Manage Subscription > Cancel Subscription.
+Annual plan cancellations require supervisor confirmation. Monthly plans
+cancel at the end of the current billing period.
+
+Q: Why did my application crash when uploading a file?
+A: This is usually caused by file size limits, unsupported formats, or
+browser issues. See the Technical Manual for detailed troubleshooting steps.
+
+Q: What are your pricing plans?
+A: We offer Starter, Professional, and Enterprise plans. See the Pricing
+Guide for full details on features and costs.
+
+Q: How can I escalate an issue to management?
+A: Let your support agent know you'd like to escalate, or mention it in your
+message. Escalation requests are always routed to a human supervisor for
+personal follow-up.
+
+Q: Can I get compensation for a service outage?
+A: Compensation requests (credits, discounts, extended trials) are evaluated
+case-by-case and require human supervisor approval.

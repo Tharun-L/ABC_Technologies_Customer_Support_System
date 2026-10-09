@@ -1,0 +1,43 @@
+COMPANY POLICY DOCUMENT
+ABC Technologies
+
+1. REFUND POLICY
+Customers may request a refund within 14 days of purchase for annual subscriptions,
+provided the account has been used for fewer than 10 hours of active product usage.
+Monthly subscriptions are non-refundable after 7 days. All refund requests must be
+reviewed and approved by a human supervisor before processing. Refunds are issued
+to the original payment method within 5-7 business days of approval.
+
+2. SUBSCRIPTION CANCELLATION POLICY
+Customers can request cancellation of their subscription at any time. Cancellation
+requests for annual plans require human supervisor approval to confirm the customer
+understands any applicable early-termination terms. Monthly plans can be cancelled
+at the end of the current billing cycle without supervisor approval, but cancellation
+confirmation emails are always reviewed before sending.
+
+3. ACCOUNT CLOSURE POLICY
+Permanent account closure requests must be approved by a human supervisor. Before
+approval, the supervisor must confirm there is no outstanding balance and that the
+customer has been informed that all data will be deleted after 30 days.
+
+4. COMPENSATION POLICY
+Any compensation offered to a customer (service credits, extended trial periods,
+discount codes) for service disruptions or dissatisfaction must be approved by a
+human supervisor. Support agents are not authorized to offer compensation directly.
+
+5. ESCALATION TO MANAGEMENT POLICY
+If a customer explicitly requests to speak with management or escalates a complaint
+beyond standard support, this must be routed to a human supervisor for review and
+personal follow-up. No automated response should be sent as the final resolution
+for management escalations.
+
+6. DATA PRIVACY POLICY
+Customer data is never shared with third parties without consent. Support agents
+must verify customer identity (name and account email) before discussing billing
+or account details.
+
+7. RESPONSE TIME COMMITMENTS
+- Sales inquiries: response within 4 business hours.
+- Technical support: response within 2 business hours for critical issues.
+- Billing inquiries: response within 1 business day.
+- Account management: response within 1 business day.

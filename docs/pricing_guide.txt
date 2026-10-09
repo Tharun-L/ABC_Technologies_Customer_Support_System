@@ -1,0 +1,36 @@
+PRICING GUIDE
+ABC Technologies
+
+1. STARTER PLAN
+Price: $19/month or $199/year (save 13%)
+Includes: Up to 5 users, 10GB storage, core business management modules
+(invoicing, basic reporting), email support.
+
+2. PROFESSIONAL PLAN
+Price: $49/month or $499/year (save 15%)
+Includes: Up to 25 users, 100GB storage, advanced reporting, workflow
+automation, integrations with third-party apps, priority email and chat support.
+
+3. ENTERPRISE PLAN
+Price: Custom pricing (contact sales)
+Includes: Unlimited users, unlimited storage, dedicated account manager,
+custom integrations, single sign-on (SSO), 24/7 phone support, service-level
+agreement (SLA) guarantees.
+
+4. ADD-ONS
+- Extra storage: $5/month per 50GB
+- Advanced analytics module: $15/month
+- Premium onboarding and training package: $299 one-time fee
+
+5. DISCOUNTS
+- Annual billing: automatic discount applied (see plan pricing above)
+- Non-profit organizations: 20% discount available with verification
+- Educational institutions: 30% discount available with verification
+
+6. FREE TRIAL
+All plans include a 14-day free trial with full feature access. No credit
+card required to start the trial.
+
+7. PAYMENT METHODS
+We accept all major credit cards, ACH bank transfers (US only), and PayPal.
+Enterprise customers may request invoicing with net-30 payment terms.

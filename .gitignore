@@ -1,0 +1,62 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# Log files
+
+*.log
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing and coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Database files (uncomment if the database should not be uploaded)
+
+# memory_db/*.db
+
+# memory_db/*.sqlite3
+
+# Keep project documentation and deliverables
+
+!README.md
+!requirements.txt
+!Documentation_Report.docx
+!Screenshots.pdf
+!workflow_diagram.png

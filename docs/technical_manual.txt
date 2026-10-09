@@ -1,0 +1,50 @@
+TECHNICAL MANUAL
+ABC Technologies
+
+1. INSTALLATION
+The application is cloud-based and accessed via web browser at app.abctech.com.
+No local installation is required for the web version. A desktop sync client
+is available for Windows 10+ and macOS 11+, downloadable from the Account
+Settings > Downloads page.
+
+2. LOGIN ISSUES
+If a customer cannot log in:
+- Verify the email address is entered correctly (case-insensitive).
+- Check if the account is locked after 5 failed login attempts (locks for 15
+  minutes automatically).
+- Confirm two-factor authentication (2FA) codes are entered within 30 seconds
+  of generation, as codes expire quickly.
+- If using Single Sign-On (SSO), confirm the organization's SSO provider is
+  active and the customer is using the correct corporate email domain.
+
+3. APPLICATION CRASHES ON FILE UPLOAD
+Common causes of crashes during file upload:
+- File size exceeds the plan's storage limit or the 500MB per-file maximum.
+- Unsupported file format (supported formats: .csv, .xlsx, .pdf, .docx, .png,
+  .jpg for attachments).
+- Browser cache corruption — recommend clearing cache and cookies, or trying
+  an incognito/private window.
+- Outdated browser version — the application requires Chrome 100+, Firefox
+  100+, Safari 15+, or Edge 100+.
+- Unstable internet connection during large file transfers; recommend
+  re-attempting on a stable connection or using the desktop sync client for
+  files larger than 100MB.
+
+4. CONFIGURATION ISSUES
+- Workflow automation rules: ensure trigger conditions don't conflict with
+  existing rules (check Settings > Automations > Conflict Checker).
+- Integration failures: re-authenticate the third-party integration token,
+  as tokens expire every 90 days for security.
+- Notification settings: located under Settings > Notifications; changes
+  take up to 5 minutes to propagate.
+
+5. SYSTEM STATUS AND MAINTENANCE
+Scheduled maintenance occurs every second Sunday of the month, 2:00-4:00 AM
+UTC. Live system status is available at status.abctech.com.
+
+6. ERROR CODE REFERENCE
+- ERR-101: Authentication token expired — ask the customer to log out and
+  back in.
+- ERR-204: File upload exceeded size limit.
+- ERR-305: Integration sync failure — check third-party service status.
+- ERR-409: Conflicting workflow automation rule.

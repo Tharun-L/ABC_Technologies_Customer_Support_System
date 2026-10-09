@@ -1,0 +1,14 @@
+langgraph==1.2.6
+langgraph-checkpoint-sqlite==3.1.0
+langchain==1.3.11
+langchain-community==0.4.2
+scikit-learn==1.8.0
+
+# Optional: only needed if you want to use a real hosted LLM instead of
+# the built-in offline fallback (see llm_provider.py)
+# anthropic
+# openai
+
+# Optional: only needed to regenerate the workflow diagram / screenshots
+# graphviz
+# pillow
